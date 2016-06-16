@@ -45,3 +45,4 @@ deploy:
   on:
     tags: true
     repo: MongoEngine/mongoengine
+
